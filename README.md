@@ -2,3 +2,4 @@
 |---|---------|----------|------------|-------------|------|
 | 1 | [Print Square](./GeeksForGeeks/Basic/Print%20Square) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-square--105330/1?page=1&category=Java&sortBy=submissions) | Basic | 29 Jul 2026 | 08:05 pm |
 | 2 | [Print With Separator](./GeeksForGeeks/Basic/Print%20With%20Separator) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-with-separator/1?page=1&category=Java&sortBy=submissions) | Basic | 29 Jul 2026 | 08:06 pm |
+| 3 | [Deque Traversal](./GeeksForGeeks/Basic/Deque%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/dequeue-traversal/1?page=3&category=Java&sortBy=submissions) | Basic | 29 Jul 2026 | 08:07 pm |
