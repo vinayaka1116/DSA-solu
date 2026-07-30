@@ -7,3 +7,4 @@
 | 5 | [Java Override](./GeeksForGeeks/Medium/Java%20Override) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-override/1?page=4&category=Java&sortBy=submissions) | Medium | 29 Jul 2026 | 08:11 pm |
 | 6 | [Undirected Graph Cycle](./GeeksForGeeks/Medium/Undirected%20Graph%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?page=1&category=Graph&sortBy=submissions) | Medium | 30 Jul 2026 | 03:24 pm |
 | 7 | [Maximum Subset XOR](./GeeksForGeeks/Medium/Maximum%20Subset%20XOR) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-subset-xor/1) | Medium | 30 Jul 2026 | 09:34 pm |
+| 8 | [ArrayList Operations](./GeeksForGeeks/Medium/ArrayList%20Operations) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arraylist-operations/1?page=3&category=Java&sortBy=submissions) | Medium | 30 Jul 2026 | 09:37 pm |
