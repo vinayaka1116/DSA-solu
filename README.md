@@ -9,3 +9,4 @@
 | 7 | [Maximum Subset XOR](./GeeksForGeeks/Medium/Maximum%20Subset%20XOR) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-subset-xor/1) | Medium | 30 Jul 2026 | 09:34 pm |
 | 8 | [ArrayList Operations](./GeeksForGeeks/Medium/ArrayList%20Operations) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arraylist-operations/1?page=3&category=Java&sortBy=submissions) | Medium | 30 Jul 2026 | 09:37 pm |
 | 9 | [Operations on PriorityQueue](./GeeksForGeeks/Medium/Operations%20on%20PriorityQueue) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/operations-on-priorityqueue/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 03:04 pm |
+| 10 | [Input Boolean Value](./GeeksForGeeks/Medium/Input%20Boolean%20Value) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/input-boolean-value/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 03:04 pm |
