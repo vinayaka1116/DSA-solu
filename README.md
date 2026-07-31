@@ -11,3 +11,4 @@
 | 9 | [Operations on PriorityQueue](./GeeksForGeeks/Medium/Operations%20on%20PriorityQueue) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/operations-on-priorityqueue/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 03:04 pm |
 | 10 | [Input Boolean Value](./GeeksForGeeks/Medium/Input%20Boolean%20Value) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/input-boolean-value/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 03:04 pm |
 | 11 | [ArrayList insertion](./GeeksForGeeks/Medium/ArrayList%20insertion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arraylist-insertion/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 03:06 pm |
+| 12 | [Java Classes Introduction](./GeeksForGeeks/Medium/Java%20Classes%20Introduction) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-classes-introduction/1?page=4&category=Java&sortBy=submissions) | Medium | 31 Jul 2026 | 03:07 pm |
