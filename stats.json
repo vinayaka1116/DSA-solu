@@ -1,12 +1,12 @@
 {
-  "totalSolved": 16,
+  "totalSolved": 17,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-08-01",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 11,
+    "medium": 12,
     "hard": 0,
     "basic": 3
   },
@@ -26,15 +26,17 @@
     "GeeksForGeeks_All_Prime_Factors_in_Sorted_Order": true,
     "GeeksForGeeks_BFS_of_graph": true,
     "LeetCode_Two_Sum": true,
-    "GeeksForGeeks_Java_Abstract_keyword": true
+    "GeeksForGeeks_Java_Abstract_keyword": true,
+    "GeeksForGeeks_Anagram": true
   },
   "activityHistory": {
     "2026-07-29": 5,
     "2026-07-30": 3,
     "2026-07-31": 7,
-    "2026-08-01": 1
+    "2026-08-01": 2
   },
   "todayProblems": [
-    "Java Abstract keyword"
+    "Java Abstract keyword",
+    "Anagram"
   ]
 }
