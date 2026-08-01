@@ -17,3 +17,4 @@
 | 15 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 31 Jul 2026 | 03:28 pm |
 | 16 | [Java Abstract keyword](./GeeksForGeeks/Medium/Java%20Abstract%20keyword) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-abstract-keyword/1?page=4&category=Java&sortBy=submissions) | Medium | 01 Aug 2026 | 08:29 pm |
 | 17 | [Anagram](./GeeksForGeeks/Medium/Anagram) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/anagram-1587115620/1?page=4&category=Java&sortBy=submissions) | Medium | 01 Aug 2026 | 08:30 pm |
+| 18 | [Distinct Sorted](./GeeksForGeeks/Medium/Distinct%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/distinct-sorted--124713/1?page=7&category=Java&sortBy=submissions) | Medium | 01 Aug 2026 | 08:31 pm |
