@@ -1,12 +1,12 @@
 {
-  "totalSolved": 15,
-  "currentStreak": 3,
-  "maxStreak": 3,
-  "lastSyncDate": "2026-07-31",
-  "todayCount": 7,
+  "totalSolved": 16,
+  "currentStreak": 4,
+  "maxStreak": 4,
+  "lastSyncDate": "2026-08-01",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 10,
+    "medium": 11,
     "hard": 0,
     "basic": 3
   },
@@ -25,20 +25,16 @@
     "GeeksForGeeks_Java_Classes_Introduction": true,
     "GeeksForGeeks_All_Prime_Factors_in_Sorted_Order": true,
     "GeeksForGeeks_BFS_of_graph": true,
-    "LeetCode_Two_Sum": true
+    "LeetCode_Two_Sum": true,
+    "GeeksForGeeks_Java_Abstract_keyword": true
   },
   "activityHistory": {
     "2026-07-29": 5,
     "2026-07-30": 3,
-    "2026-07-31": 7
+    "2026-07-31": 7,
+    "2026-08-01": 1
   },
   "todayProblems": [
-    "Operations on PriorityQueue",
-    "Input Boolean Value",
-    "ArrayList insertion",
-    "Java Classes Introduction",
-    "All Prime Factors in Sorted Order",
-    "BFS of graph",
-    "Two Sum"
+    "Java Abstract keyword"
   ]
 }
