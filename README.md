@@ -20,3 +20,4 @@
 | 18 | [Distinct Sorted](./GeeksForGeeks/Medium/Distinct%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/distinct-sorted--124713/1?page=7&category=Java&sortBy=submissions) | Medium | 01 Aug 2026 | 08:31 pm |
 | 19 | [Roman to Integer](./LeetCode/Easy/Roman%20to%20Integer) | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | Easy | 01 Aug 2026 | 08:35 pm |
 | 20 | [Sequences where Adjacent Divide](./GeeksForGeeks/Medium/Sequences%20where%20Adjacent%20Divide) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-in-array2138/1) | Medium | 02 Aug 2026 | 08:19 pm |
+| 21 | [Java Streams Sum](./GeeksForGeeks/Medium/Java%20Streams%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-streams-sum/1?page=4&category=Java&sortBy=submissions) | Medium | 02 Aug 2026 | 08:20 pm |
