@@ -22,3 +22,4 @@
 | 20 | [Sequences where Adjacent Divide](./GeeksForGeeks/Medium/Sequences%20where%20Adjacent%20Divide) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-in-array2138/1) | Medium | 02 Aug 2026 | 08:19 pm |
 | 21 | [Java Streams Sum](./GeeksForGeeks/Medium/Java%20Streams%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-streams-sum/1?page=4&category=Java&sortBy=submissions) | Medium | 02 Aug 2026 | 08:20 pm |
 | 22 | [One Parameter Lambda Expression](./GeeksForGeeks/Medium/One%20Parameter%20Lambda%20Expression) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/one-parameter-lambda-expression/1?page=4&category=Java&sortBy=submissions) | Medium | 02 Aug 2026 | 08:21 pm |
+| 23 | [Java Streams Max](./GeeksForGeeks/Medium/Java%20Streams%20Max) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-streams-max/1?page=4&category=Java&sortBy=submissions) | Medium | 02 Aug 2026 | 08:22 pm |

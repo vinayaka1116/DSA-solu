@@ -1,12 +1,12 @@
 {
-  "totalSolved": 22,
+  "totalSolved": 23,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-02",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 16,
+    "medium": 17,
     "hard": 0,
     "basic": 3
   },
@@ -32,18 +32,20 @@
     "LeetCode_Roman_to_Integer": true,
     "GeeksForGeeks_Sequences_where_Adjacent_Divide": true,
     "GeeksForGeeks_Java_Streams_Sum": true,
-    "GeeksForGeeks_One_Parameter_Lambda_Expression": true
+    "GeeksForGeeks_One_Parameter_Lambda_Expression": true,
+    "GeeksForGeeks_Java_Streams_Max": true
   },
   "activityHistory": {
     "2026-07-29": 5,
     "2026-07-30": 3,
     "2026-07-31": 7,
     "2026-08-01": 4,
-    "2026-08-02": 3
+    "2026-08-02": 4
   },
   "todayProblems": [
     "Sequences where Adjacent Divide",
     "Java Streams Sum",
-    "One Parameter Lambda Expression"
+    "One Parameter Lambda Expression",
+    "Java Streams Max"
   ]
 }
