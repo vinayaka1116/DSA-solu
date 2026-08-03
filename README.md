@@ -25,3 +25,4 @@
 | 23 | [Java Streams Max](./GeeksForGeeks/Medium/Java%20Streams%20Max) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-streams-max/1?page=4&category=Java&sortBy=submissions) | Medium | 02 Aug 2026 | 08:22 pm |
 | 24 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 02 Aug 2026 | 08:26 pm |
 | 25 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 03 Aug 2026 | 11:17 am |
+| 26 | [Stone Game III](./LeetCode/Hard/Stone%20Game%20III) | [LeetCode](https://leetcode.com/problems/stone-game-iii/) | Hard | 03 Aug 2026 | 11:21 am |
