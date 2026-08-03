@@ -27,3 +27,4 @@
 | 25 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 03 Aug 2026 | 11:17 am |
 | 26 | [Stone Game III](./LeetCode/Hard/Stone%20Game%20III) | [LeetCode](https://leetcode.com/problems/stone-game-iii/) | Hard | 03 Aug 2026 | 11:21 am |
 | 27 | [Stone Game](./LeetCode/Medium/Stone%20Game) | [LeetCode](https://leetcode.com/problems/stone-game/) | Medium | 03 Aug 2026 | 11:25 am |
+| 28 | [Maximum Neighbours In ArrayList](./GeeksForGeeks/Medium/Maximum%20Neighbours%20In%20ArrayList) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-neighbours-in-arraylist/1?page=5&category=Java&sortBy=submissions) | Medium | 03 Aug 2026 | 11:32 am |
