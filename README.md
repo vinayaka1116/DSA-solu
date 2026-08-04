@@ -32,3 +32,4 @@
 | 30 | [ArrayList Iterate Front to Back](./GeeksForGeeks/Medium/ArrayList%20Iterate%20Front%20to%20Back) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/arraylist-iterate-front-to-back/1?page=5&category=Java&sortBy=submissions) | Medium | 04 Aug 2026 | 07:47 pm |
 | 31 | [Maximize Number of Toys](./GeeksForGeeks/Medium/Maximize%20Number%20of%20Toys) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximize-number-of-toys/1?page=5&category=Java&sortBy=submissions) | Medium | 04 Aug 2026 | 07:48 pm |
 | 32 | [Find Missing Elements](./LeetCode/Easy/Find%20Missing%20Elements) | [LeetCode](https://leetcode.com/problems/find-missing-elements/) | Easy | 04 Aug 2026 | 07:50 pm |
+| 33 | [Predict the Winner](./LeetCode/Medium/Predict%20the%20Winner) | [LeetCode](https://leetcode.com/problems/predict-the-winner/) | Medium | 04 Aug 2026 | 07:52 pm |
