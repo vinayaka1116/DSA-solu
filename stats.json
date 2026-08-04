@@ -1,11 +1,11 @@
 {
-  "totalSolved": 31,
+  "totalSolved": 32,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-08-04",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 6,
+    "easy": 7,
     "medium": 21,
     "hard": 1,
     "basic": 3
@@ -41,7 +41,8 @@
     "GeeksForGeeks_Maximum_Neighbours_In_ArrayList": true,
     "GeeksForGeeks_Method_Overloading_in_Java": true,
     "GeeksForGeeks_ArrayList_Iterate_Front_to_Back": true,
-    "GeeksForGeeks_Maximize_Number_of_Toys": true
+    "GeeksForGeeks_Maximize_Number_of_Toys": true,
+    "LeetCode_Find_Missing_Elements": true
   },
   "activityHistory": {
     "2026-07-29": 5,
@@ -50,11 +51,12 @@
     "2026-08-01": 4,
     "2026-08-02": 5,
     "2026-08-03": 4,
-    "2026-08-04": 3
+    "2026-08-04": 4
   },
   "todayProblems": [
     "Method Overloading in Java",
     "ArrayList Iterate Front to Back",
-    "Maximize Number of Toys"
+    "Maximize Number of Toys",
+    "Find Missing Elements"
   ]
 }
