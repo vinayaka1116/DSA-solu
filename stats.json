@@ -1,11 +1,11 @@
 {
-  "totalSolved": 36,
+  "totalSolved": 37,
   "currentStreak": 8,
   "maxStreak": 8,
   "lastSyncDate": "2026-08-05",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 8,
+    "easy": 9,
     "medium": 24,
     "hard": 1,
     "basic": 3
@@ -46,7 +46,8 @@
     "LeetCode_Predict_the_Winner": true,
     "LeetCode_Remove_Methods_From_Project": true,
     "LeetCode_Remove_Element": true,
-    "GeeksForGeeks_Missing_in_Array": true
+    "GeeksForGeeks_Missing_in_Array": true,
+    "LeetCode_Length_of_Last_Word": true
   },
   "activityHistory": {
     "2026-07-29": 5,
@@ -56,11 +57,12 @@
     "2026-08-02": 5,
     "2026-08-03": 4,
     "2026-08-04": 5,
-    "2026-08-05": 3
+    "2026-08-05": 4
   },
   "todayProblems": [
     "Remove Methods From Project",
     "Remove Element",
-    "Missing in Array"
+    "Missing in Array",
+    "Length of Last Word"
   ]
 }
