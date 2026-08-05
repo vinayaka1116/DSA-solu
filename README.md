@@ -34,3 +34,4 @@
 | 32 | [Find Missing Elements](./LeetCode/Easy/Find%20Missing%20Elements) | [LeetCode](https://leetcode.com/problems/find-missing-elements/) | Easy | 04 Aug 2026 | 07:50 pm |
 | 33 | [Predict the Winner](./LeetCode/Medium/Predict%20the%20Winner) | [LeetCode](https://leetcode.com/problems/predict-the-winner/) | Medium | 04 Aug 2026 | 07:52 pm |
 | 34 | [Remove Methods From Project](./LeetCode/Medium/Remove%20Methods%20From%20Project) | [LeetCode](https://leetcode.com/problems/remove-methods-from-project/) | Medium | 05 Aug 2026 | 09:37 pm |
+| 35 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 05 Aug 2026 | 09:43 pm |
