@@ -33,3 +33,4 @@
 | 31 | [Maximize Number of Toys](./GeeksForGeeks/Medium/Maximize%20Number%20of%20Toys) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximize-number-of-toys/1?page=5&category=Java&sortBy=submissions) | Medium | 04 Aug 2026 | 07:48 pm |
 | 32 | [Find Missing Elements](./LeetCode/Easy/Find%20Missing%20Elements) | [LeetCode](https://leetcode.com/problems/find-missing-elements/) | Easy | 04 Aug 2026 | 07:50 pm |
 | 33 | [Predict the Winner](./LeetCode/Medium/Predict%20the%20Winner) | [LeetCode](https://leetcode.com/problems/predict-the-winner/) | Medium | 04 Aug 2026 | 07:52 pm |
+| 34 | [Remove Methods From Project](./LeetCode/Medium/Remove%20Methods%20From%20Project) | [LeetCode](https://leetcode.com/problems/remove-methods-from-project/) | Medium | 05 Aug 2026 | 09:37 pm |
