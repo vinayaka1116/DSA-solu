@@ -37,3 +37,4 @@
 | 35 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 05 Aug 2026 | 09:43 pm |
 | 36 | [Missing in Array](./GeeksForGeeks/Medium/Missing%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1?page=1&category=Arrays&sortBy=submissions) | Medium | 05 Aug 2026 | 09:46 pm |
 | 37 | [Length of Last Word](./LeetCode/Easy/Length%20of%20Last%20Word) | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | Easy | 05 Aug 2026 | 09:47 pm |
+| 38 | [Second Largest](./GeeksForGeeks/Medium/Second%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/second-largest3735/1?page=1&category=Arrays&sortBy=submissions) | Medium | 06 Aug 2026 | 10:18 pm |
