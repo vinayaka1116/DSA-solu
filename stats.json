@@ -1,12 +1,12 @@
 {
-  "totalSolved": 40,
+  "totalSolved": 41,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-08-06",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 26,
+    "medium": 27,
     "hard": 1,
     "basic": 3
   },
@@ -50,7 +50,8 @@
     "LeetCode_Length_of_Last_Word": true,
     "GeeksForGeeks_Second_Largest": true,
     "GeeksForGeeks_First_Occurrence_in_Sorted": true,
-    "LeetCode_Smallest_Divisible_Digit_Product_I": true
+    "LeetCode_Smallest_Divisible_Digit_Product_I": true,
+    "LeetCode_Find_the_Safest_Path_in_a_Grid": true
   },
   "activityHistory": {
     "2026-07-29": 5,
@@ -61,11 +62,12 @@
     "2026-08-03": 4,
     "2026-08-04": 5,
     "2026-08-05": 4,
-    "2026-08-06": 3
+    "2026-08-06": 4
   },
   "todayProblems": [
     "Second Largest",
     "First Occurrence in Sorted",
-    "Smallest Divisible Digit Product I"
+    "Smallest Divisible Digit Product I",
+    "Find the Safest Path in a Grid"
   ]
 }
