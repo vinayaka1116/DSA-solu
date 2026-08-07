@@ -1,12 +1,12 @@
 {
-  "totalSolved": 42,
+  "totalSolved": 43,
   "currentStreak": 10,
   "maxStreak": 10,
   "lastSyncDate": "2026-08-07",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 28,
+    "medium": 29,
     "hard": 1,
     "basic": 3
   },
@@ -52,7 +52,8 @@
     "GeeksForGeeks_First_Occurrence_in_Sorted": true,
     "LeetCode_Smallest_Divisible_Digit_Product_I": true,
     "LeetCode_Find_the_Safest_Path_in_a_Grid": true,
-    "GeeksForGeeks_Inheritance_in_Java": true
+    "GeeksForGeeks_Inheritance_in_Java": true,
+    "GeeksForGeeks_Get_smaller_elements": true
   },
   "activityHistory": {
     "2026-07-29": 5,
@@ -64,9 +65,10 @@
     "2026-08-04": 5,
     "2026-08-05": 4,
     "2026-08-06": 4,
-    "2026-08-07": 1
+    "2026-08-07": 2
   },
   "todayProblems": [
-    "Inheritance in Java"
+    "Inheritance in Java",
+    "Get smaller elements"
   ]
 }
