@@ -1,11 +1,11 @@
 {
-  "totalSolved": 44,
+  "totalSolved": 45,
   "currentStreak": 11,
   "maxStreak": 11,
   "lastSyncDate": "2026-08-08",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 10,
+    "easy": 11,
     "medium": 30,
     "hard": 1,
     "basic": 3
@@ -54,7 +54,8 @@
     "LeetCode_Find_the_Safest_Path_in_a_Grid": true,
     "GeeksForGeeks_Inheritance_in_Java": true,
     "GeeksForGeeks_Get_smaller_elements": true,
-    "LeetCode_Find_the_Lexicographically_Smallest_Valid_Sequence": true
+    "LeetCode_Find_the_Lexicographically_Smallest_Valid_Sequence": true,
+    "LeetCode_Plus_One": true
   },
   "activityHistory": {
     "2026-07-29": 5,
@@ -67,9 +68,10 @@
     "2026-08-05": 4,
     "2026-08-06": 4,
     "2026-08-07": 2,
-    "2026-08-08": 1
+    "2026-08-08": 2
   },
   "todayProblems": [
-    "Find the Lexicographically Smallest Valid Sequence"
+    "Find the Lexicographically Smallest Valid Sequence",
+    "Plus One"
   ]
 }

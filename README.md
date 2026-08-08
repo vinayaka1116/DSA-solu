@@ -44,3 +44,4 @@
 | 42 | [Inheritance in Java](./GeeksForGeeks/Medium/Inheritance%20in%20Java) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inheritance-in-java/1?page=3&category=Java&sortBy=submissions) | Medium | 07 Aug 2026 | 10:02 pm |
 | 43 | [Get smaller elements](./GeeksForGeeks/Medium/Get%20smaller%20elements) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/get-smaller-elements/1?page=3&category=Java&sortBy=submissions) | Medium | 07 Aug 2026 | 10:07 pm |
 | 44 | [Find the Lexicographically Smallest Valid Sequence](./LeetCode/Medium/Find%20the%20Lexicographically%20Smallest%20Valid%20Sequence) | [LeetCode](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | Medium | 08 Aug 2026 | 10:36 pm |
+| 45 | [Plus One](./LeetCode/Easy/Plus%20One) | [LeetCode](https://leetcode.com/problems/plus-one/) | Easy | 08 Aug 2026 | 10:38 pm |
