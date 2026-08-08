@@ -46,3 +46,4 @@
 | 44 | [Find the Lexicographically Smallest Valid Sequence](./LeetCode/Medium/Find%20the%20Lexicographically%20Smallest%20Valid%20Sequence) | [LeetCode](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | Medium | 08 Aug 2026 | 10:36 pm |
 | 45 | [Plus One](./LeetCode/Easy/Plus%20One) | [LeetCode](https://leetcode.com/problems/plus-one/) | Easy | 08 Aug 2026 | 10:38 pm |
 | 46 | [One Extra Character](./GeeksForGeeks/Medium/One%20Extra%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/one-extra-character/1?page=4&category=Java&sortBy=submissions) | Medium | 08 Aug 2026 | 10:40 pm |
+| 47 | [Java Interface](./GeeksForGeeks/Medium/Java%20Interface) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-interface/1?page=4&category=Java&sortBy=submissions) | Medium | 08 Aug 2026 | 10:41 pm |
