@@ -43,3 +43,4 @@
 | 41 | [Find the Safest Path in a Grid](./LeetCode/Medium/Find%20the%20Safest%20Path%20in%20a%20Grid) | [LeetCode](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) | Medium | 06 Aug 2026 | 10:28 pm |
 | 42 | [Inheritance in Java](./GeeksForGeeks/Medium/Inheritance%20in%20Java) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inheritance-in-java/1?page=3&category=Java&sortBy=submissions) | Medium | 07 Aug 2026 | 10:02 pm |
 | 43 | [Get smaller elements](./GeeksForGeeks/Medium/Get%20smaller%20elements) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/get-smaller-elements/1?page=3&category=Java&sortBy=submissions) | Medium | 07 Aug 2026 | 10:07 pm |
+| 44 | [Find the Lexicographically Smallest Valid Sequence](./LeetCode/Medium/Find%20the%20Lexicographically%20Smallest%20Valid%20Sequence) | [LeetCode](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | Medium | 08 Aug 2026 | 10:36 pm |
