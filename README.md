@@ -47,3 +47,4 @@
 | 45 | [Plus One](./LeetCode/Easy/Plus%20One) | [LeetCode](https://leetcode.com/problems/plus-one/) | Easy | 08 Aug 2026 | 10:38 pm |
 | 46 | [One Extra Character](./GeeksForGeeks/Medium/One%20Extra%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/one-extra-character/1?page=4&category=Java&sortBy=submissions) | Medium | 08 Aug 2026 | 10:40 pm |
 | 47 | [Java Interface](./GeeksForGeeks/Medium/Java%20Interface) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/java-interface/1?page=4&category=Java&sortBy=submissions) | Medium | 08 Aug 2026 | 10:41 pm |
+| 48 | [Chocolate Distribution Problem](./GeeksForGeeks/Medium/Chocolate%20Distribution%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem-1607582550--183828/1?page=5&category=Java&sortBy=submissions) | Medium | 09 Aug 2026 | 10:55 pm |
