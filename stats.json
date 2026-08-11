@@ -1,11 +1,11 @@
 {
-  "totalSolved": 51,
+  "totalSolved": 52,
   "currentStreak": 14,
   "maxStreak": 14,
   "lastSyncDate": "2026-08-11",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 13,
+    "easy": 14,
     "medium": 33,
     "hard": 2,
     "basic": 3
@@ -61,7 +61,8 @@
     "GeeksForGeeks_Chocolate_Distribution_Problem": true,
     "LeetCode_Stone_Game_IV": true,
     "LeetCode_Palindrome_Number": true,
-    "LeetCode_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum": true
+    "LeetCode_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum": true,
+    "GeeksForGeeks_Duplicates_in_a_Limited_Range_Array": true
   },
   "activityHistory": {
     "2026-07-29": 5,
@@ -77,9 +78,10 @@
     "2026-08-08": 4,
     "2026-08-09": 1,
     "2026-08-10": 2,
-    "2026-08-11": 1
+    "2026-08-11": 2
   },
   "todayProblems": [
-    "Smallest Missing Integer Greater Than Sequential Prefix Sum"
+    "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+    "Duplicates in a Limited Range Array"
   ]
 }
