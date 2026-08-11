@@ -1,11 +1,11 @@
 {
-  "totalSolved": 50,
-  "currentStreak": 13,
-  "maxStreak": 13,
-  "lastSyncDate": "2026-08-10",
-  "todayCount": 2,
+  "totalSolved": 51,
+  "currentStreak": 14,
+  "maxStreak": 14,
+  "lastSyncDate": "2026-08-11",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 12,
+    "easy": 13,
     "medium": 33,
     "hard": 2,
     "basic": 3
@@ -60,7 +60,8 @@
     "GeeksForGeeks_Java_Interface": true,
     "GeeksForGeeks_Chocolate_Distribution_Problem": true,
     "LeetCode_Stone_Game_IV": true,
-    "LeetCode_Palindrome_Number": true
+    "LeetCode_Palindrome_Number": true,
+    "LeetCode_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum": true
   },
   "activityHistory": {
     "2026-07-29": 5,
@@ -75,10 +76,10 @@
     "2026-08-07": 2,
     "2026-08-08": 4,
     "2026-08-09": 1,
-    "2026-08-10": 2
+    "2026-08-10": 2,
+    "2026-08-11": 1
   },
   "todayProblems": [
-    "Stone Game IV",
-    "Palindrome Number"
+    "Smallest Missing Integer Greater Than Sequential Prefix Sum"
   ]
 }
