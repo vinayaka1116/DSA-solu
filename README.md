@@ -52,3 +52,4 @@
 | 50 | [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | 10 Aug 2026 | 08:47 pm |
 | 51 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./LeetCode/Easy/Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum) | [LeetCode](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy | 11 Aug 2026 | 08:36 pm |
 | 52 | [Duplicates in a Limited Range Array](./GeeksForGeeks/Easy/Duplicates%20in%20a%20Limited%20Range%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1?page=1&category=Arrays&sortBy=submissions) | Easy | 11 Aug 2026 | 10:28 pm |
+| 53 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 12 Aug 2026 | 12:49 pm |
