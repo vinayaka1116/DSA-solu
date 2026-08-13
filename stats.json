@@ -1,11 +1,11 @@
 {
-  "totalSolved": 55,
-  "currentStreak": 15,
-  "maxStreak": 15,
-  "lastSyncDate": "2026-08-12",
-  "todayCount": 3,
+  "totalSolved": 56,
+  "currentStreak": 16,
+  "maxStreak": 16,
+  "lastSyncDate": "2026-08-13",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 15,
+    "easy": 16,
     "medium": 34,
     "hard": 2,
     "basic": 4
@@ -65,7 +65,8 @@
     "GeeksForGeeks_Duplicates_in_a_Limited_Range_Array": true,
     "LeetCode_Move_Zeroes": true,
     "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true,
-    "GeeksForGeeks_Array_Search": true
+    "GeeksForGeeks_Array_Search": true,
+    "GeeksForGeeks_Equilibrium_Point": true
   },
   "activityHistory": {
     "2026-07-29": 5,
@@ -82,11 +83,10 @@
     "2026-08-09": 1,
     "2026-08-10": 2,
     "2026-08-11": 2,
-    "2026-08-12": 3
+    "2026-08-12": 3,
+    "2026-08-13": 1
   },
   "todayProblems": [
-    "Move Zeroes",
-    "Length of Longest Subarray With at Most K Frequency",
-    "Array Search"
+    "Equilibrium Point"
   ]
 }

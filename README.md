@@ -55,3 +55,4 @@
 | 53 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 12 Aug 2026 | 12:49 pm |
 | 54 | [Length of Longest Subarray With at Most K Frequency](./LeetCode/Medium/Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency) | [LeetCode](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | Medium | 12 Aug 2026 | 12:52 pm |
 | 55 | [Array Search](./GeeksForGeeks/Basic/Array%20Search) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?page=1&category=Arrays&sortBy=submissions) | Basic | 12 Aug 2026 | 07:16 pm |
+| 56 | [Equilibrium Point](./GeeksForGeeks/Easy/Equilibrium%20Point) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1?page=1&category=Arrays&sortBy=submissions) | Easy | 13 Aug 2026 | 09:15 pm |
