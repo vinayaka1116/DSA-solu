@@ -57,3 +57,4 @@
 | 55 | [Array Search](./GeeksForGeeks/Basic/Array%20Search) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?page=1&category=Arrays&sortBy=submissions) | Basic | 12 Aug 2026 | 07:16 pm |
 | 56 | [Equilibrium Point](./GeeksForGeeks/Easy/Equilibrium%20Point) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1?page=1&category=Arrays&sortBy=submissions) | Easy | 13 Aug 2026 | 09:15 pm |
 | 57 | [Longest Substring of One Repeating Character](./LeetCode/Hard/Longest%20Substring%20of%20One%20Repeating%20Character) | [LeetCode](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | Hard | 13 Aug 2026 | 09:24 pm |
+| 58 | [Largest in Array](./GeeksForGeeks/Basic/Largest%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1?page=1&category=Arrays&sortBy=submissions) | Basic | 14 Aug 2026 | 09:33 pm |
