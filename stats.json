@@ -1,12 +1,12 @@
 {
-  "totalSolved": 60,
+  "totalSolved": 61,
   "currentStreak": 18,
   "maxStreak": 18,
   "lastSyncDate": "2026-08-15",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 35,
+    "medium": 36,
     "hard": 3,
     "basic": 5
   },
@@ -70,7 +70,8 @@
     "LeetCode_Longest_Substring_of_One_Repeating_Character": true,
     "GeeksForGeeks_Largest_in_Array": true,
     "LeetCode_Maximum_Length_Substring_With_Two_Occurrences": true,
-    "LeetCode_Longest_Subsequence_With_Non-Zero_Bitwise_XOR": true
+    "LeetCode_Longest_Subsequence_With_Non-Zero_Bitwise_XOR": true,
+    "GeeksForGeeks_Two_Sum_-_Pair_with_Given_Sum": true
   },
   "activityHistory": {
     "2026-07-29": 5,
@@ -90,9 +91,10 @@
     "2026-08-12": 3,
     "2026-08-13": 2,
     "2026-08-14": 2,
-    "2026-08-15": 1
+    "2026-08-15": 2
   },
   "todayProblems": [
-    "Longest Subsequence With Non-Zero Bitwise XOR"
+    "Longest Subsequence With Non-Zero Bitwise XOR",
+    "Two Sum - Pair with Given Sum"
   ]
 }
