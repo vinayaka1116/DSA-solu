@@ -62,3 +62,4 @@
 | 60 | [Longest Subsequence With Non-Zero Bitwise XOR](./LeetCode/Medium/Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR) | [LeetCode](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Medium | 15 Aug 2026 | 06:38 pm |
 | 61 | [Two Sum - Pair with Given Sum](./GeeksForGeeks/Medium/Two%20Sum%20-%20Pair%20with%20Given%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/key-pair5616/1?page=1&category=Arrays&sortBy=submissions) | Medium | 15 Aug 2026 | 06:44 pm |
 | 62 | [Union of Arrays with Duplicates](./GeeksForGeeks/Medium/Union%20of%20Arrays%20with%20Duplicates) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1?page=1&category=Arrays&sortBy=submissions) | Medium | 16 Aug 2026 | 08:58 pm |
+| 63 | [Stone Game IX](./LeetCode/Medium/Stone%20Game%20IX) | [LeetCode](https://leetcode.com/problems/stone-game-ix/) | Medium | 16 Aug 2026 | 09:01 pm |
