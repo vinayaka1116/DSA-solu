@@ -1,13 +1,13 @@
 {
-  "totalSolved": 64,
+  "totalSolved": 65,
   "currentStreak": 20,
   "maxStreak": 20,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 18,
     "medium": 38,
-    "hard": 3,
+    "hard": 4,
     "basic": 5
   },
   "syncedProblems": {
@@ -74,7 +74,8 @@
     "GeeksForGeeks_Two_Sum_-_Pair_with_Given_Sum": true,
     "GeeksForGeeks_Union_of_Arrays_with_Duplicates": true,
     "LeetCode_Stone_Game_IX": true,
-    "GeeksForGeeks_Check_Equal_Arrays": true
+    "GeeksForGeeks_Check_Equal_Arrays": true,
+    "LeetCode_Stone_Game_V": true
   },
   "activityHistory": {
     "2026-07-29": 5,
@@ -96,9 +97,10 @@
     "2026-08-14": 2,
     "2026-08-15": 2,
     "2026-08-16": 2,
-    "2026-08-17": 1
+    "2026-08-17": 2
   },
   "todayProblems": [
-    "Check Equal Arrays"
+    "Check Equal Arrays",
+    "Stone Game V"
   ]
 }
