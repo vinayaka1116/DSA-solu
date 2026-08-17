@@ -63,3 +63,4 @@
 | 61 | [Two Sum - Pair with Given Sum](./GeeksForGeeks/Medium/Two%20Sum%20-%20Pair%20with%20Given%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/key-pair5616/1?page=1&category=Arrays&sortBy=submissions) | Medium | 15 Aug 2026 | 06:44 pm |
 | 62 | [Union of Arrays with Duplicates](./GeeksForGeeks/Medium/Union%20of%20Arrays%20with%20Duplicates) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1?page=1&category=Arrays&sortBy=submissions) | Medium | 16 Aug 2026 | 08:58 pm |
 | 63 | [Stone Game IX](./LeetCode/Medium/Stone%20Game%20IX) | [LeetCode](https://leetcode.com/problems/stone-game-ix/) | Medium | 16 Aug 2026 | 09:01 pm |
+| 64 | [Check Equal Arrays](./GeeksForGeeks/Easy/Check%20Equal%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1?page=2&category=Arrays&sortBy=submissions) | Easy | 17 Aug 2026 | 10:11 pm |
