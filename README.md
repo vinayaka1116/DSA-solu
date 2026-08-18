@@ -66,3 +66,4 @@
 | 64 | [Check Equal Arrays](./GeeksForGeeks/Easy/Check%20Equal%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1?page=2&category=Arrays&sortBy=submissions) | Easy | 17 Aug 2026 | 10:11 pm |
 | 65 | [Stone Game V](./LeetCode/Hard/Stone%20Game%20V) | [LeetCode](https://leetcode.com/problems/stone-game-v/) | Hard | 17 Aug 2026 | 10:24 pm |
 | 66 | [Array Subset](./GeeksForGeeks/Basic/Array%20Subset) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1?page=1&category=Arrays&sortBy=submissions) | Basic | 18 Aug 2026 | 09:33 pm |
+| 67 | [Find the Largest Almost Missing Integer](./LeetCode/Easy/Find%20the%20Largest%20Almost%20Missing%20Integer) | [LeetCode](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Easy | 18 Aug 2026 | 09:37 pm |
