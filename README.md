@@ -68,3 +68,4 @@
 | 66 | [Array Subset](./GeeksForGeeks/Basic/Array%20Subset) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1?page=1&category=Arrays&sortBy=submissions) | Basic | 18 Aug 2026 | 09:33 pm |
 | 67 | [Find the Largest Almost Missing Integer](./LeetCode/Easy/Find%20the%20Largest%20Almost%20Missing%20Integer) | [LeetCode](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Easy | 18 Aug 2026 | 09:37 pm |
 | 68 | [Minimum distance in an Array](./GeeksForGeeks/Medium/Minimum%20distance%20in%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/1) | Medium | 19 Aug 2026 | 11:43 pm |
+| 69 | [Cinema Seat Allocation](./LeetCode/Medium/Cinema%20Seat%20Allocation) | [LeetCode](https://leetcode.com/problems/cinema-seat-allocation/) | Medium | 19 Aug 2026 | 11:45 pm |
