@@ -70,3 +70,4 @@
 | 68 | [Minimum distance in an Array](./GeeksForGeeks/Medium/Minimum%20distance%20in%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/1) | Medium | 19 Aug 2026 | 11:43 pm |
 | 69 | [Cinema Seat Allocation](./LeetCode/Medium/Cinema%20Seat%20Allocation) | [LeetCode](https://leetcode.com/problems/cinema-seat-allocation/) | Medium | 19 Aug 2026 | 11:45 pm |
 | 70 | [Third Largest](./GeeksForGeeks/Medium/Third%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/third-largest-element/1) | Medium | 20 Aug 2026 | 10:43 pm |
+| 71 | [Distribute Elements Into Two Arrays I](./LeetCode/Easy/Distribute%20Elements%20Into%20Two%20Arrays%20I) | [LeetCode](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | 20 Aug 2026 | 10:48 pm |
