@@ -71,3 +71,4 @@
 | 69 | [Cinema Seat Allocation](./LeetCode/Medium/Cinema%20Seat%20Allocation) | [LeetCode](https://leetcode.com/problems/cinema-seat-allocation/) | Medium | 19 Aug 2026 | 11:45 pm |
 | 70 | [Third Largest](./GeeksForGeeks/Medium/Third%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/third-largest-element/1) | Medium | 20 Aug 2026 | 10:43 pm |
 | 71 | [Distribute Elements Into Two Arrays I](./LeetCode/Easy/Distribute%20Elements%20Into%20Two%20Arrays%20I) | [LeetCode](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Easy | 20 Aug 2026 | 10:48 pm |
+| 72 | [Kth Smallest Amount With Single Denomination Combination](./LeetCode/Hard/Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination) | [LeetCode](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | Hard | 21 Aug 2026 | 11:16 pm |
