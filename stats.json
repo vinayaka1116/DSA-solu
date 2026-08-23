@@ -1,12 +1,12 @@
 {
-  "totalSolved": 72,
-  "currentStreak": 24,
+  "totalSolved": 73,
+  "currentStreak": 1,
   "maxStreak": 24,
-  "lastSyncDate": "2026-08-21",
+  "lastSyncDate": "2026-08-23",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 20,
-    "medium": 41,
+    "medium": 42,
     "hard": 5,
     "basic": 6
   },
@@ -82,7 +82,8 @@
     "LeetCode_Cinema_Seat_Allocation": true,
     "GeeksForGeeks_Third_Largest": true,
     "LeetCode_Distribute_Elements_Into_Two_Arrays_I": true,
-    "LeetCode_Kth_Smallest_Amount_With_Single_Denomination_Combination": true
+    "LeetCode_Kth_Smallest_Amount_With_Single_Denomination_Combination": true,
+    "GeeksForGeeks_Reverse_an_Array": true
   },
   "activityHistory": {
     "2026-07-29": 5,
@@ -108,9 +109,10 @@
     "2026-08-18": 2,
     "2026-08-19": 2,
     "2026-08-20": 2,
-    "2026-08-21": 1
+    "2026-08-21": 1,
+    "2026-08-23": 1
   },
   "todayProblems": [
-    "Kth Smallest Amount With Single Denomination Combination"
+    "Reverse an Array"
   ]
 }
