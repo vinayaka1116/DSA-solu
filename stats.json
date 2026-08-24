@@ -1,12 +1,12 @@
 {
-  "totalSolved": 74,
-  "currentStreak": 1,
+  "totalSolved": 75,
+  "currentStreak": 2,
   "maxStreak": 24,
-  "lastSyncDate": "2026-08-23",
-  "todayCount": 2,
+  "lastSyncDate": "2026-08-24",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 20,
-    "medium": 43,
+    "medium": 44,
     "hard": 5,
     "basic": 6
   },
@@ -84,7 +84,8 @@
     "LeetCode_Distribute_Elements_Into_Two_Arrays_I": true,
     "LeetCode_Kth_Smallest_Amount_With_Single_Denomination_Combination": true,
     "GeeksForGeeks_Reverse_an_Array": true,
-    "LeetCode_Sum_Game": true
+    "LeetCode_Sum_Game": true,
+    "GeeksForGeeks_Missing_And_Repeating": true
   },
   "activityHistory": {
     "2026-07-29": 5,
@@ -111,10 +112,10 @@
     "2026-08-19": 2,
     "2026-08-20": 2,
     "2026-08-21": 1,
-    "2026-08-23": 2
+    "2026-08-23": 2,
+    "2026-08-24": 1
   },
   "todayProblems": [
-    "Reverse an Array",
-    "Sum Game"
+    "Missing And Repeating"
   ]
 }

@@ -74,3 +74,4 @@
 | 72 | [Kth Smallest Amount With Single Denomination Combination](./LeetCode/Hard/Kth%20Smallest%20Amount%20With%20Single%20Denomination%20Combination) | [LeetCode](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | Hard | 21 Aug 2026 | 11:16 pm |
 | 73 | [Reverse an Array](./GeeksForGeeks/Medium/Reverse%20an%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Medium | 23 Aug 2026 | 11:07 pm |
 | 74 | [Sum Game](./LeetCode/Medium/Sum%20Game) | [LeetCode](https://leetcode.com/problems/sum-game/) | Medium | 23 Aug 2026 | 11:10 pm |
+| 75 | [Missing And Repeating](./GeeksForGeeks/Medium/Missing%20And%20Repeating) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1) | Medium | 24 Aug 2026 | 11:32 pm |
