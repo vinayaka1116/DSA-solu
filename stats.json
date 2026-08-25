@@ -1,11 +1,11 @@
 {
-  "totalSolved": 77,
+  "totalSolved": 78,
   "currentStreak": 3,
   "maxStreak": 24,
   "lastSyncDate": "2026-08-25",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 20,
+    "easy": 21,
     "medium": 45,
     "hard": 6,
     "basic": 6
@@ -87,7 +87,8 @@
     "LeetCode_Sum_Game": true,
     "GeeksForGeeks_Missing_And_Repeating": true,
     "LeetCode_Stone_Game_VIII": true,
-    "GeeksForGeeks_Move_all_negative_elements_to_end": true
+    "GeeksForGeeks_Move_all_negative_elements_to_end": true,
+    "LeetCode_Smallest_Missing_Multiple_of_K": true
   },
   "activityHistory": {
     "2026-07-29": 5,
@@ -116,9 +117,10 @@
     "2026-08-21": 1,
     "2026-08-23": 2,
     "2026-08-24": 2,
-    "2026-08-25": 1
+    "2026-08-25": 2
   },
   "todayProblems": [
-    "Move all negative elements to end"
+    "Move all negative elements to end",
+    "Smallest Missing Multiple of K"
   ]
 }
