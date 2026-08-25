@@ -1,12 +1,12 @@
 {
-  "totalSolved": 76,
-  "currentStreak": 2,
+  "totalSolved": 77,
+  "currentStreak": 3,
   "maxStreak": 24,
-  "lastSyncDate": "2026-08-24",
-  "todayCount": 2,
+  "lastSyncDate": "2026-08-25",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 20,
-    "medium": 44,
+    "medium": 45,
     "hard": 6,
     "basic": 6
   },
@@ -86,7 +86,8 @@
     "GeeksForGeeks_Reverse_an_Array": true,
     "LeetCode_Sum_Game": true,
     "GeeksForGeeks_Missing_And_Repeating": true,
-    "LeetCode_Stone_Game_VIII": true
+    "LeetCode_Stone_Game_VIII": true,
+    "GeeksForGeeks_Move_all_negative_elements_to_end": true
   },
   "activityHistory": {
     "2026-07-29": 5,
@@ -114,10 +115,10 @@
     "2026-08-20": 2,
     "2026-08-21": 1,
     "2026-08-23": 2,
-    "2026-08-24": 2
+    "2026-08-24": 2,
+    "2026-08-25": 1
   },
   "todayProblems": [
-    "Missing And Repeating",
-    "Stone Game VIII"
+    "Move all negative elements to end"
   ]
 }
